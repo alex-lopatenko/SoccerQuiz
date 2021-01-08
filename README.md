@@ -1,0 +1,1 @@
+Учебный проект SoccerQuiz написан в Android Studio на Kotlin
